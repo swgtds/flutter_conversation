@@ -1,16 +1,8 @@
-# flutter_conversation
+# CometChat Integration on FLutter
 
-A new Flutter project.
+This project includes the integration of the **Conversation List + Message View** layout using the [CometChat Flutter UI Kit](https://www.cometchat.com/docs/ui-kit/flutter/flutter-conversation).
 
-## Getting Started
+The Conversation List + Message View layout provides a seamless two-panel chat interface, commonly seen in modern messaging apps like WhatsApp Web, Slack, and Microsoft Teams.
+It allows users to switch between conversations while keeping the active chat open, delivering a smooth, real-time messaging experience.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
